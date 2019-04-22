@@ -1,0 +1,40 @@
+{
+  "en": {
+    "Main.titleOne": "Manage",
+    "Main.titleTwo": " Campaigns",
+    "Main.upcomingCampaigns":"UPCOMING CAMPAIGNS",
+    "Main.liveCampaigns":"LIVE CAMPAIGNS",
+     "Main.pastCampaigns":"PAST CAMPAIGNS",
+     "table.viewPricing":"VIEW PRICING",
+     "table.report":"REPORT",
+     "table.scheduleAgain":"SCHEDULE AGAIN",
+     "table.date":"DATE",
+     "table.view":"VIEW",
+     "table.actions":"ACTIONS",
+     "table.campaign":"CAMPAIGN",
+     "popup.campaignDetails":"Campaign Details",
+     "popup.campaignName":"Campaign Name",
+     "popup.campaignDate":"Campaign Date",
+     "popup.campaignCountries":"Campaign Countries",
+     "table.cancel":"Cancel"
+  },
+  "es": {
+    "Main.titleOne": "Gestionar",
+    "Main.titleTwo": " Campañas",
+    "Main.upcomingCampaigns":"CAMPAÑAS PRÓXIMAS",
+    "Main.liveCampaigns":"CAMPAÑAS EN VIVO",
+    "Main.pastCampaigns":"CAMPAÑAS PASADAS",
+    "table.viewPricing":"VER PRECIOS",
+    "table.report":"INFORME",
+    "table.scheduleAgain":"Volver a programar",
+    "table.date":"FECHA",
+    "table.view":"VER",
+    "table.actions":"COMPORTAMIENTO",
+    "table.campaign":"CAMPAÑA",
+    "popup.campaignDetails":"Detalles de la campaña",
+    "popup.campaignName":"Nombre de campaña",
+    "popup.campaignDate":"Fecha de la campaña",
+    "popup.campaignCountries":"Países de la campaña",
+    "table.cancel": "Cancelar"
+  }
+}

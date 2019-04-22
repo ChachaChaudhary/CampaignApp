@@ -1,0 +1,131 @@
+.topHeader {
+  background: rgb(21,71,120);
+  color:#fff;
+}
+.logo{
+  width:30px;
+  height: 30px;
+  margin: 5px 0px 5px 7px;
+}
+.title{
+  margin: 5px 0px 5px 7px;
+}
+.beta{
+  margin: 5px 15px 5px 7px;
+}
+.menuButton{
+  background: rgb(17,58,98);
+}
+.menuButton img{
+  width: 40px;
+  height: 40px;
+}
+.mainContent{
+  margin-top:3%;
+}
+.contentTitle{
+  color: rgb(55,81,107);
+  margin-bottom: 2%;
+}
+.btn{
+  color: #ffffff;
+  background: #86a300;
+  margin: 3px;
+  text-decoration: none;
+  padding: 7px 0px;
+  max-width: 185px;
+}
+.btn:hover:not(.btn-active){
+background-color: #5c7000;
+}
+.btn:active,.btn-active{
+  color:#86a300;
+  background: #fff;
+  border: 2px solid #86a300;
+}
+.btn-active::after{
+    content:'';
+    width: 0; 
+    height: 0; 
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #86a300;
+    position: absolute;
+    top:100%;
+  }
+  .campaignsContainer{
+    max-width: 768px;
+    margin-top:1%;
+  }
+  .campaignHeader{
+    background:rgb(231,231,231);
+    border-top-left-radius: 4px;
+    border-top-right-radius: 4px;
+    font-size: 14px;
+    border: 1px solid rgb(231,231,231);
+  }
+  .campaignColumn{
+    border-right: 1px solid rgb(221,221,221);
+    color:rgb(166,164,165);
+    padding:10px 1%;
+  }
+  .campaignColumn:last-of-type{
+    border:none;
+  }
+  .campaignDataRow{
+    border: 1px solid rgb(221,221,221);
+    border-width: 0px 1px 1px 1px;
+    cursor:pointer;
+  }
+   .campaignLogo{
+    width: 35px;
+    height: 35px;
+    border-radius: 20px;
+    border: 1px solid rgb(221,221,221);
+ }
+ .campaignCellData{
+   padding : 0px 2%;
+ }
+ .campaignName{
+   color: rgb(68,98,164);
+   font-size: 13px;
+ }
+ .viewPricingIcon{
+  background: rgb(68,98,164);
+  color:#fff;
+  border-radius:20px;
+  font-size: 18px;
+  width:25px;
+  height: 25px;
+ }
+ .viewPricingIcon span{
+   font-size: 12px;
+ }
+ .viewPricingText{
+   color: rgb(68,98,164);
+   line-height: 1.5;
+ }
+ .actionItems{
+   font-size: 8px;
+ }
+ .actionItemSpacing{
+   margin: 0px 5%;
+ }
+ .actionItems img{
+   width:20px;
+   height: 20px;
+ }
+ .actionItemActive{
+  color: rgb(68,98,164);
+}
+.calenderButtonContainer{
+  margin-bottom:5px;
+}
+.calenderButtonContainer button{
+  border-radius:0.3em;
+  color:#fff;
+  background: #216ba5;
+  border:none;
+  cursor:pointer;
+  padding:5px;
+}

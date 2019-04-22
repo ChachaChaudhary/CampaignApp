@@ -1,0 +1,34 @@
+[
+  {
+    "id": "table.viewPricing",
+    "defaultMessage": "VIEW PRICING"
+  },
+  {
+    "id": "table.report",
+    "defaultMessage": "REPORT"
+  },
+  {
+    "id": "table.scheduleAgain",
+    "defaultMessage": "SCHEDULE AGAIN"
+  },
+  {
+    "id": "table.date",
+    "defaultMessage": "DATE"
+  },
+  {
+    "id": "table.campaign",
+    "defaultMessage": "CAMPAIGN"
+  },
+  {
+    "id": "table.view",
+    "defaultMessage": "VIEW"
+  },
+  {
+    "id": "table.actions",
+    "defaultMessage": "ACTIONS"
+  },
+  {
+    "id": "table.cancel",
+    "defaultMessage": "Cancel"
+  }
+]

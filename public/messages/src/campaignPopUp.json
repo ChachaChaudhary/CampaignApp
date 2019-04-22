@@ -1,0 +1,18 @@
+[
+  {
+    "id": "popup.campaignDetails",
+    "defaultMessage": "Campaign Details"
+  },
+  {
+    "id": "popup.campaignName",
+    "defaultMessage": "Campaign Name"
+  },
+  {
+    "id": "popup.campaignDate",
+    "defaultMessage": "Campaign Date"
+  },
+  {
+    "id": "popup.campaignCountries",
+    "defaultMessage": "Campaign Countries"
+  }
+]

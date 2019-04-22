@@ -1,0 +1,22 @@
+[
+  {
+    "id": "Main.titleOne",
+    "defaultMessage": "Manage"
+  },
+  {
+    "id": "Main.titleTwo",
+    "defaultMessage": "Campaigns"
+  },
+  {
+    "id": "Main.upcomingCampaigns",
+    "defaultMessage": "UPCOMING CAMPAIGNS"
+  },
+  {
+    "id": "Main.liveCampaigns",
+    "defaultMessage": "LIVE CAMPAIGNS"
+  },
+  {
+    "id": "Main.pastCampaigns",
+    "defaultMessage": "PAST CAMPAIGNS"
+  }
+]
